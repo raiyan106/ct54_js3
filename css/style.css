@@ -1,0 +1,23 @@
+.prime{
+	padding:60px 0px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+#prime, #fact, #fibo{
+width: 80%;
+padding: 10px 10px;
+border-radius: 5px;
+border: 1px solid seagreen;
+}
+
+.area{
+	width: 100%;
+	background: #dcf7dc;
+	min-height: 200px;
+	border-radius: 5px;
+}
+
+#result{
+
+}
